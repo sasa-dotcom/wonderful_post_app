@@ -6,10 +6,10 @@ checking for altzone in time.h with  -Werror... no
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/date-3.4.1/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20250610-21698-bpk2m7 sitelibdir\=./.gem.20250610-21698-bpk2m7 clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-w5dz2q sitelibdir\=./.gem.20250616-38738-w5dz2q clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/date-3.4.1/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20250610-21698-bpk2m7 sitelibdir\=./.gem.20250610-21698-bpk2m7
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-w5dz2q sitelibdir\=./.gem.20250616-38738-w5dz2q
 compiling date_core.c
 compiling date_parse.c
 compiling date_strftime.c
@@ -18,5 +18,5 @@ linking shared-object date_core.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/date-3.4.1/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20250610-21698-bpk2m7 sitelibdir\=./.gem.20250610-21698-bpk2m7 install
-/usr/bin/install -c -m 0755 date_core.bundle ./.gem.20250610-21698-bpk2m7
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-w5dz2q sitelibdir\=./.gem.20250616-38738-w5dz2q install
+/usr/bin/install -c -m 0755 date_core.bundle ./.gem.20250616-38738-w5dz2q

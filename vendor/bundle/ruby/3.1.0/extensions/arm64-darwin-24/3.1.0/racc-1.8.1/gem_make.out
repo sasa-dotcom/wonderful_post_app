@@ -3,14 +3,14 @@ current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
-make DESTDIR\= sitearchdir\=./.gem.20250610-21698-o6b609 sitelibdir\=./.gem.20250610-21698-o6b609 clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-wdzu10 sitelibdir\=./.gem.20250616-38738-wdzu10 clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
-make DESTDIR\= sitearchdir\=./.gem.20250610-21698-o6b609 sitelibdir\=./.gem.20250610-21698-o6b609
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-wdzu10 sitelibdir\=./.gem.20250616-38738-wdzu10
 compiling cparse.c
 linking shared-object racc/cparse.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
-make DESTDIR\= sitearchdir\=./.gem.20250610-21698-o6b609 sitelibdir\=./.gem.20250610-21698-o6b609 install
-/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250610-21698-o6b609/racc
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-wdzu10 sitelibdir\=./.gem.20250616-38738-wdzu10 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250616-38738-wdzu10/racc

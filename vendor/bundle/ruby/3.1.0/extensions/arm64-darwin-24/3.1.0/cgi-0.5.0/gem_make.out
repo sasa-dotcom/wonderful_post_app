@@ -3,14 +3,14 @@ current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-1yglwz sitelibdir\=./.gem.20250613-17811-1yglwz clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-5knwuh sitelibdir\=./.gem.20250616-46788-5knwuh clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-1yglwz sitelibdir\=./.gem.20250613-17811-1yglwz
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-5knwuh sitelibdir\=./.gem.20250616-46788-5knwuh
 compiling escape.c
 linking shared-object cgi/escape.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-1yglwz sitelibdir\=./.gem.20250613-17811-1yglwz install
-/usr/bin/install -c -m 0755 escape.bundle ./.gem.20250613-17811-1yglwz/cgi
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-5knwuh sitelibdir\=./.gem.20250616-46788-5knwuh install
+/usr/bin/install -c -m 0755 escape.bundle ./.gem.20250616-46788-5knwuh/cgi

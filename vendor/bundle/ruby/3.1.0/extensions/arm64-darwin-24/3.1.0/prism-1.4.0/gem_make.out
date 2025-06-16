@@ -6,10 +6,10 @@ checking for whether -fvisibility=hidden is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/prism-1.4.0/ext/prism
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-d48vxw sitelibdir\=./.gem.20250613-17811-d48vxw clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-hpcy34 sitelibdir\=./.gem.20250616-46788-hpcy34 clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/prism-1.4.0/ext/prism
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-d48vxw sitelibdir\=./.gem.20250613-17811-d48vxw
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-hpcy34 sitelibdir\=./.gem.20250616-46788-hpcy34
 compiling api_node.c
 compiling api_pack.c
 compiling extension.c
@@ -38,5 +38,5 @@ linking shared-object prism/prism.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/prism-1.4.0/ext/prism
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-d48vxw sitelibdir\=./.gem.20250613-17811-d48vxw install
-/usr/bin/install -c -m 0755 prism.bundle ./.gem.20250613-17811-d48vxw/prism
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-hpcy34 sitelibdir\=./.gem.20250616-46788-hpcy34 install
+/usr/bin/install -c -m 0755 prism.bundle ./.gem.20250616-46788-hpcy34/prism

@@ -13,10 +13,10 @@ checking for whether -DSTR_UMINUS_DEDUPE_FROZEN=1 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/msgpack-1.8.0/ext/msgpack
-make DESTDIR\= sitearchdir\=./.gem.20250610-60350-he3r41 sitelibdir\=./.gem.20250610-60350-he3r41 clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-7w6arx sitelibdir\=./.gem.20250616-38738-7w6arx clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/msgpack-1.8.0/ext/msgpack
-make DESTDIR\= sitearchdir\=./.gem.20250610-60350-he3r41 sitelibdir\=./.gem.20250610-60350-he3r41
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-7w6arx sitelibdir\=./.gem.20250616-38738-7w6arx
 compiling buffer.c
 compiling buffer_class.c
 compiling extension_value_class.c
@@ -33,5 +33,5 @@ linking shared-object msgpack/msgpack.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/msgpack-1.8.0/ext/msgpack
-make DESTDIR\= sitearchdir\=./.gem.20250610-60350-he3r41 sitelibdir\=./.gem.20250610-60350-he3r41 install
-/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20250610-60350-he3r41/msgpack
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-7w6arx sitelibdir\=./.gem.20250616-38738-7w6arx install
+/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20250616-38738-7w6arx/msgpack

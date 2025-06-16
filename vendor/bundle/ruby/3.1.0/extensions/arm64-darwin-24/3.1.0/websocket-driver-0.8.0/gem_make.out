@@ -3,14 +3,14 @@ current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.8.0/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20250610-21698-pl0ykr sitelibdir\=./.gem.20250610-21698-pl0ykr clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-grndm3 sitelibdir\=./.gem.20250616-38738-grndm3 clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.8.0/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20250610-21698-pl0ykr sitelibdir\=./.gem.20250610-21698-pl0ykr
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-grndm3 sitelibdir\=./.gem.20250616-38738-grndm3
 compiling websocket_mask.c
 linking shared-object websocket_mask.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.8.0/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20250610-21698-pl0ykr sitelibdir\=./.gem.20250610-21698-pl0ykr install
-/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20250610-21698-pl0ykr
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-grndm3 sitelibdir\=./.gem.20250616-38738-grndm3 install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20250616-38738-grndm3

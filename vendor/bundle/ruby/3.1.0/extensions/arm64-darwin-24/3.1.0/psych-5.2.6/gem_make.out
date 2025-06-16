@@ -5,13 +5,13 @@ checking for yaml_get_version() in -lyaml... yes
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/psych-5.2.6/ext/psych
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-d65wzs sitelibdir\=./.gem.20250613-17811-d65wzs clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-sco7wy sitelibdir\=./.gem.20250616-46788-sco7wy clean
 cd libyaml && /Library/Developer/CommandLineTools/usr/bin/make clean
 /bin/sh: line 0: cd: libyaml: No such file or directory
 make: [clean-so] Error 1 (ignored)
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/psych-5.2.6/ext/psych
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-d65wzs sitelibdir\=./.gem.20250613-17811-d65wzs
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-sco7wy sitelibdir\=./.gem.20250616-46788-sco7wy
 compiling psych.c
 compiling psych_emitter.c
 compiling psych_parser.c
@@ -21,5 +21,5 @@ linking shared-object psych.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1', '-lyaml'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/psych-5.2.6/ext/psych
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-d65wzs sitelibdir\=./.gem.20250613-17811-d65wzs install
-/usr/bin/install -c -m 0755 psych.bundle ./.gem.20250613-17811-d65wzs
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-sco7wy sitelibdir\=./.gem.20250616-46788-sco7wy install
+/usr/bin/install -c -m 0755 psych.bundle ./.gem.20250616-46788-sco7wy

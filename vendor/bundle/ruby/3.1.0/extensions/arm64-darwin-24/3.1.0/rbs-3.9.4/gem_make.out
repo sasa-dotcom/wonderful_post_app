@@ -4,10 +4,10 @@ checking for whether -std=gnu99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/rbs-3.9.4/ext/rbs_extension
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-mbbe9o sitelibdir\=./.gem.20250613-17811-mbbe9o clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-ddm9fk sitelibdir\=./.gem.20250616-46788-ddm9fk clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/rbs-3.9.4/ext/rbs_extension
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-mbbe9o sitelibdir\=./.gem.20250613-17811-mbbe9o
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-ddm9fk sitelibdir\=./.gem.20250616-46788-ddm9fk
 compiling ./../../src/constants.c
 compiling ./../../src/ruby_objs.c
 compiling ./../../src/util/rbs_constant_pool.c
@@ -22,5 +22,5 @@ linking shared-object rbs_extension.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/rbs-3.9.4/ext/rbs_extension
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-mbbe9o sitelibdir\=./.gem.20250613-17811-mbbe9o install
-/usr/bin/install -c -m 0755 rbs_extension.bundle ./.gem.20250613-17811-mbbe9o
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-ddm9fk sitelibdir\=./.gem.20250616-46788-ddm9fk install
+/usr/bin/install -c -m 0755 rbs_extension.bundle ./.gem.20250616-46788-ddm9fk

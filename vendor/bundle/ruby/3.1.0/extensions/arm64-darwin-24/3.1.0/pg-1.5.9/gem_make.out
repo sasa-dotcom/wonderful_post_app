@@ -27,10 +27,10 @@ creating extconf.h
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/pg-1.5.9/ext
-make DESTDIR\= sitearchdir\=./.gem.20250613-24783-654k0b sitelibdir\=./.gem.20250613-24783-654k0b clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-m83fbw sitelibdir\=./.gem.20250616-38738-m83fbw clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/pg-1.5.9/ext
-make DESTDIR\= sitearchdir\=./.gem.20250613-24783-654k0b sitelibdir\=./.gem.20250613-24783-654k0b
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-m83fbw sitelibdir\=./.gem.20250616-38738-m83fbw
 compiling gvl_wrappers.c
 In file included from gvl_wrappers.c:6:
 In file included from ./pg.h:60:
@@ -245,6 +245,6 @@ linking shared-object pg_ext.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/pg-1.5.9/ext
-make DESTDIR\= sitearchdir\=./.gem.20250613-24783-654k0b sitelibdir\=./.gem.20250613-24783-654k0b install
-/usr/bin/install -c -m 0755 pg_ext.bundle ./.gem.20250613-24783-654k0b
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-m83fbw sitelibdir\=./.gem.20250616-38738-m83fbw install
+/usr/bin/install -c -m 0755 pg_ext.bundle ./.gem.20250616-38738-m83fbw
 installing pg_ext libraries

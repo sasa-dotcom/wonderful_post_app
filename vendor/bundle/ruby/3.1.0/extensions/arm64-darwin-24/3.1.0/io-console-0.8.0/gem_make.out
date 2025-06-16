@@ -16,14 +16,14 @@ checking for ttyname_r()... yes
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/io-console-0.8.0/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-y54x9k sitelibdir\=./.gem.20250613-17811-y54x9k clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-jimzqb sitelibdir\=./.gem.20250616-46788-jimzqb clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/io-console-0.8.0/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-y54x9k sitelibdir\=./.gem.20250613-17811-y54x9k
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-jimzqb sitelibdir\=./.gem.20250616-46788-jimzqb
 compiling console.c
 linking shared-object io/console.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/io-console-0.8.0/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250613-17811-y54x9k sitelibdir\=./.gem.20250613-17811-y54x9k install
-/usr/bin/install -c -m 0755 console.bundle ./.gem.20250613-17811-y54x9k/io
+make DESTDIR\= sitearchdir\=./.gem.20250616-46788-jimzqb sitelibdir\=./.gem.20250616-46788-jimzqb install
+/usr/bin/install -c -m 0755 console.bundle ./.gem.20250616-46788-jimzqb/io

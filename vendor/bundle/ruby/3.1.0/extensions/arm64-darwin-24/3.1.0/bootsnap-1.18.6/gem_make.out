@@ -7,14 +7,14 @@ checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.6/ext/bootsnap
-make DESTDIR\= sitearchdir\=./.gem.20250610-60350-cx53cg sitelibdir\=./.gem.20250610-60350-cx53cg clean
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-t49v3q sitelibdir\=./.gem.20250616-38738-t49v3q clean
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.6/ext/bootsnap
-make DESTDIR\= sitearchdir\=./.gem.20250610-60350-cx53cg sitelibdir\=./.gem.20250610-60350-cx53cg
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-t49v3q sitelibdir\=./.gem.20250616-38738-t49v3q
 compiling bootsnap.c
 linking shared-object bootsnap/bootsnap.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.1'
 
 current directory: /Users/satomi/git/wonderful_post_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.6/ext/bootsnap
-make DESTDIR\= sitearchdir\=./.gem.20250610-60350-cx53cg sitelibdir\=./.gem.20250610-60350-cx53cg install
-/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20250610-60350-cx53cg/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20250616-38738-t49v3q sitelibdir\=./.gem.20250616-38738-t49v3q install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20250616-38738-t49v3q/bootsnap
