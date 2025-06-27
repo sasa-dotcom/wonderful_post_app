@@ -23,5 +23,6 @@ module WonderfulPostApp
     #( デフォルトのlocaleを日本語(:ja)にする )
     config.time_zone = 'Tokyo'
     config.active_record.default_timezone = :local
+    config.i18n.default_locale = :ja
   end
 end
